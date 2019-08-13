@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/BonHills_BrowserOSNameFinder",
+    "type": "magento-module",
+    "license": "GNU-General-Public-License-(GPL)",
+    "homepage": "",
+    "description": "This extension is used to add browser name and OS name in body tag class attribute. The use of this extension is to apply device specific CSS. ",
+    "authors": [
+    {
+        "name": "BonHills Techne",
+        "email": "itsupport@bonhills.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
