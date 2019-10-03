@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This extension is used to add browser name and OS name in body tag class attribute. The use of this extension is to apply device specific CSS. 
